@@ -1,0 +1,46 @@
+name: crm_dashboard_app
+description: "A premium CRM Dashboard application built with Flutter"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.3.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+
+  # State Management
+  flutter_riverpod: ^2.4.9
+
+  # Navigation
+  go_router: ^13.2.0
+
+  # Network
+  dio: ^5.4.1
+  connectivity_plus: ^5.0.2
+
+  # UI
+  flutter_screenutil: ^5.9.0
+  shimmer: ^3.0.0
+  google_fonts: ^6.2.1
+  cached_network_image: ^3.3.1
+
+  # Local Storage
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+
+  # Utils
+  intl: ^0.19.0
+  equatable: ^2.0.5
+  logger: ^2.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
