@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # crm_dashboard_app
 
 machine testing
@@ -15,3 +16,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# crm-pro-dashboard
+Enterprise-grade Flutter CRM dashboard with Riverpod, Dio, responsive UI, offline simulation, shimmer loading, and modern SaaS architecture.
+>>>>>>> 06e70d97b6e0ceb2dd39fcc6202c56f59ac3843b
