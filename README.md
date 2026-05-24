@@ -22,7 +22,7 @@ This project demonstrates advanced Flutter development concepts including Riverp
 
 ## 📊 Dashboard System
 
-### KPI Analytics
+### KPI (Key Performance Indicator) Analytics
 
 * Animated KPI cards
 * Adaptive row/column layouts
